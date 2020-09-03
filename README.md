@@ -1,5 +1,7 @@
 # ☃ Hi, I'm Colder.
 
+## I'm finding a remote job. [Contact me](mailto:dev@vitarn.com)
+
 ![Colder's github stats][readme-stats-img]
 
 ![Top Langs][readme-stats-top-langs-img]
