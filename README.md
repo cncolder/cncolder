@@ -1,7 +1,8 @@
 # ☃ Hi, I'm Colder.
 
 ## I'm a senior full stack. Node.js, React, Taro.
-## Looking for a remote job. [Contact me](mailto:dev@vitarn.com)
+
+<!-- ## Looking for a remote job. [Contact me](mailto:dev@vitarn.com) -->
 
 ![Colder's github stats][readme-stats-img]
 
