@@ -2,4 +2,6 @@
 
 Senior AI Juror. ChatGPT Codex · Claude Code · Cursor.
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
