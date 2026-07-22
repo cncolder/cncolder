@@ -1,7 +1,0 @@
-{
-  "compilerOptions": {
-    "lib": ["dom"],
-    "jsx": "react-jsx",
-    "jsxImportSource": "https://esm.sh/react"
-  }
-}
