@@ -17,7 +17,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          debug: yes
           repositories_batch: 25
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
