@@ -22,6 +22,6 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size,percentage
           plugin_languages_ignored: html,css
-          plugin_habits: yes
-          plugin_habits_charts: yes
+          # plugin_habits: yes # GitHub Events API 不再返回 payload.commits,等上游修复
+          # plugin_habits_charts: yes
           plugin_followup: yes
