@@ -22,7 +22,6 @@ jobs:
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
           plugin_languages_details: bytes-size,percentage
-          plugin_languages_ignored: html,css
           # plugin_habits: yes # GitHub Events API 不再返回 payload.commits,等上游修复
           # plugin_habits_charts: yes
           # plugin_followup: yes # 数据全为 0,暂不展示
